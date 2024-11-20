@@ -1,8 +1,9 @@
-# EXNO2DS
-# AIM: To perform Exploratory Data Analysis on the given data set.
+## EXNO2:EDA Analysis using Python
 ### NAME : KEERTHIKA M P
 ### REG NO : 212223240071
 ### DATE : 09/09/2024
+## AIM:
+ To perform Exploratory Data Analysis on the given data set.
 # EXPLANATION:
   The primary aim with exploratory analysis is to examine the data for distribution, outliers and anomalies to direct specific testing of your hypothesis.
   
